@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Hi, here is Croden1999. 您好，这里是Croden1999。
-- I like to be involved in language translation work in some projects, Vita3K, play! emu etc,. 我喜欢参与一些项目的语言翻译工作，如Vita3K、play!模拟器等。
+- I like to be involved in language translation work in some projects, Vita3K, Play! emu etc,. 我喜欢参与一些项目的语言翻译工作，如Vita3K、play!模拟器等。
 - Thanks so much for knowing about these. 非常感谢您了解这些。:D
 
 <!--
