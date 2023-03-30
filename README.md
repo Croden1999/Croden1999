@@ -12,6 +12,8 @@
 
    非常感谢您了解这些。:D
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=croden1999&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Croden1999/Croden1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
