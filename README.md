@@ -12,9 +12,8 @@
 
    非常感谢您了解这些。:D
 
+[![Croden1999's GitHub trophy](https://github-profile-trophy.vercel.app/?username=Croden1999)](https://github.com/Croden1999)
 [![Croden1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Croden1999&show_icons=true&theme=radical)](https://github.com/Croden1999)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Croden1999)](https://github.com/Croden1999) -->
 
 <!--
 **Croden1999/Croden1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
