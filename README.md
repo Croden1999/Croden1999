@@ -12,7 +12,7 @@
 
    非常感谢您了解这些。:D
 
-![Croden1999's GitHub trophy](https://github-profile-trophy.vercel.app/?username=Croden1999)
+<!--![Croden1999's GitHub trophy](https://github-profile-trophy.vercel.app/?username=Croden1999)-->
 ![Croden1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Croden1999&show_icons=true&theme=transparent)
 
 <!--
