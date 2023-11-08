@@ -8,6 +8,10 @@
 
    我喜欢参与一些项目的语言翻译工作，如Vita3K、Play!模拟器等。
 
+- At the same time, I also participated in some repo PR contributions that I was interested in.
+
+  同时我也参与了一些我感兴趣的项目PR贡献。
+
 - Thanks so much for knowing about these. :D
 
    非常感谢您了解这些。:D
